@@ -25,7 +25,6 @@
     "tests"
   ],
   "dependencies": {
-    "star-rating": "acordeonl/star-rating#^1.4.3",
     "star-rating": "acordeonl/star-rating#*"
   }
 }
