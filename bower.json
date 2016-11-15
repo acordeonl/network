@@ -20,5 +20,6 @@
   "dependencies": {
     "star-rating": "acordeonl/star-rating#^*",
     "drop-menu": "acordeonl/drop-menu#^*"
-  }
+  },
+  "main":"acordeonl-gui.html"
 }
