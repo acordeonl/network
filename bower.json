@@ -1,21 +1,13 @@
 {
-  "name": "gui-elements2",
-  "version": "1.0.7",
-  "homepage": "https://github.com/PolymerElements/paper-elements",
+  "name": "gui-elements",
   "authors": [
     "acordeonl"
   ],
-  "description": "Paper elements are a set of visual elements that implement Google's Material Design.",
   "keywords": [
     "web-components",
     "polymer",
-    "paper",
     "element-collection"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/PolymerElements/paper-elements.git"
-  },
   "license": "http://polymer.github.io/LICENSE.txt",
   "ignore": [
     "**/.*",
