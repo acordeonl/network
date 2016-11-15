@@ -1,3 +1,3 @@
 #acordeonl-GUI
 
-GUI elements used for acordeonl
+GUI elements for acordeonl
