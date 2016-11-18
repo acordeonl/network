@@ -17,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "collection-dialog": "acordeonl/collection-dialog#*",
-    "prompt-dialog": "acordeonl/prompt-dialog#*"
+    "ajax-manager": "acordeonl/ajax-manager#*",
+    "lazy-load-behavior": "acordeonl/lazy-load-behavior#*"
   }
 }
