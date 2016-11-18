@@ -1,5 +1,5 @@
 {
-  "name": "gui-elements",
+  "name": "dialogs",
   "authors": [
     "acordeonl"
   ],
@@ -17,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "star-rating": "acordeonl/star-rating#*",
-    "drop-menu": "acordeonl/drop-menu#*"
+  "collection-dialog": "acordeonl/collection-dialog#*",
+    "prompt-dialog": "acordeonl/prompt-dialog#*",
   }
 }
