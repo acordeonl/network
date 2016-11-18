@@ -17,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-  "collection-dialog": "acordeonl/collection-dialog#*",
+    "collection-dialog": "acordeonl/collection-dialog#*",
     "prompt-dialog": "acordeonl/prompt-dialog#*"
   }
 }
