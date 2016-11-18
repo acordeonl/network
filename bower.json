@@ -18,6 +18,6 @@
   ],
   "dependencies": {
   "collection-dialog": "acordeonl/collection-dialog#*",
-    "prompt-dialog": "acordeonl/prompt-dialog#*",
+    "prompt-dialog": "acordeonl/prompt-dialog#*"
   }
 }
