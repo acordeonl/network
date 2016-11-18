@@ -1,3 +1,3 @@
-#acordeonl dialogs
+#acordeonl network
 
-dialog elements used by acordeonl
+network management dialogs
